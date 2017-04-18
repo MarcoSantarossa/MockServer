@@ -6,7 +6,7 @@ Sample project to show how use to use a mock server with Swift UI testing.
 The project uses `Carthage` as dependency manager.
 
 ```
-$ cd <root_project>
+$ cd MockServer_iOS/
 $ carthage bootstrap --platform ios
 ```
 
